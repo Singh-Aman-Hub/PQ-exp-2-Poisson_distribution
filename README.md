@@ -1,4 +1,4 @@
-# Date:05-10-2024 
+
 # EXP 2: Fitting Poisson  distribution
 
 # Name: Aman Singh  
